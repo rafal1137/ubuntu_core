@@ -1,0 +1,14 @@
+
+*.iso
+
+*.img
+
+*.manifest
+
+*.assert
+
+*.snap
+
+qemu-bin/Image
+
+OVMF/

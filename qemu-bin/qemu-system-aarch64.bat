@@ -1,0 +1,1 @@
+D:\Qemu\qemu-system-aarch64.exe -m 1024 -cpu cortex-a57 -nographic -machine virt -bios firmware-code-arm64.fd -kernel ./Image -append 'root=/dev/vda1 -drive if=none,id=image,file=../ubuntu-core-22-arm64/pc.img -netdev user,id=user0 -device virtio-net-device,netdev=user0 -device virtio-blk-device,drive=image
