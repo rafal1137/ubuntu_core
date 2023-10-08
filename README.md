@@ -2,6 +2,6 @@
 * This is building img files for IoT Devices/Snap compatible devices
 
 
-#Building
+# Building
 `cd ./scripts`
 `sh build_img.sh`
