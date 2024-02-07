@@ -1,8 +1,7 @@
 type: model
-authority-id: Z2wY745mGOwk6uBBtIDhbqtEZ8kbqYjN
-revision: 2
+authority-id: MiwxyHGajqRpwhqDdKRs1Hok0VIiV8aP
 series: 16
-brand-id: Z2wY745mGOwk6uBBtIDhbqtEZ8kbqYjN
+brand-id: MiwxyHGajqRpwhqDdKRs1Hok0VIiV8aP
 model: ubuntu-core-22-arm64
 architecture: arm64
 base: core22
@@ -28,16 +27,16 @@ snaps:
     id: PMrrV4ml8uWuEUDBT8dSGnKUYbevVhc4
     name: snapd
     type: snapd
-timestamp: 2023-10-04T14:18:26+00:00
-sign-key-sha3-384: Vf67NLqwc6tSxUQH3MxyRLQrR_weAuSzHMQiveCBUk0x0rclh8sXXUuLZvmaY8W6
+timestamp: 2024-02-07T13:28:47+00:00
+sign-key-sha3-384: 90zIOrmCKlji8h0WZY65RvsZYkxFKheIjuXOgVjClCvaLRnPOgvEEssMlx1C0dTK
 
-AcLBcwQAAQoAHRYhBAr8DO/CxVetzvSn+2vIDhXZ9DxvBQJlHpOcAAoJEGvIDhXZ9DxvSkgP/RHs
-VjFYp+2+ysO7PagA1MN9iToFlYy2gMpnB4yejjgqss4PKL1R04jl0bmJSQoeUghe5D6YIKrGqgYL
-ZIexq68y6a6r3A60YUE+eGA+/nYF6HIblyJhrzkpHoUeXwc3pkp1+7X/2fPVdiNsKMpg8XCg2449
-Wf5yEzhWpy/P373rubhvIs/+PY4s/OvBonJXPA4GGtBu7mx8fpnLlgUVQ31D1+sMJxbwHbc4gyQo
-k8RuBZMV9Nb4rdBlP6rmKRbInDam9UX8Tjeyv5Br//Nxe+31z2fuW0ji9TNo93EfZjGecio3fkV+
-W/qB4WwGUreOqVXe1FcNojbk4dK+yOM2JL1z1LpiVkMDd0jCuChySphSs4jFqPrLEVh2YBGuCJBE
-7LGrBgq1KWPA1dvVEcf2kzzkmWDWsRm2tMyr35tbXHiM2kcIiyB8Bwb3sgJW5RIjI5k6NnFT11kA
-SgB67LziXfyRZsqozijXsDOGn2G+zK59csNjxuZb+4s/tPsnVeWjRZT0kgXsXACTm/7IM4pYtkP4
-mVSQV6luTuBNvH6t8X4A/ea2R6Ejscow0EOzfJCHyLBsf/oyxmnpzfTu7kgE9Q/LEZinmKvgW9jU
-FGkhGLg560r05DloyeO1ujOWuJ9ZSaqlHeK+hQPZpnVF7zpP8nkKfKJgZ17Ts0YYfuoPsZA9
+AcLBcwQAAQoAHRYhBE1xByDUZVkaRv8Q/rlHUotJZ6aCBQJlw4XBAAoJELlHUotJZ6aC4rgQAKXh
+xHW8NkPbDt70oaqoK/IjIItGBf9MF1MGNi8W4ZveHdWUIfbQy9DVusLIKZ7TIvQwH+Nxj7FYKwjt
+Hdqx83COgL8nTNPfM7kEjKNIqZHB/XTD4ozbYe65VyyI0yQW6nQeJQHdPSs0uicL2yb2gOeLW+ua
+hxMNCIWjZTmx/cHlQ5bYmld8fodfsuVbxxSu0ykJTuwIOj0kpVwu+J2vmLEbY6r2Pl85/Kn/Y/di
+qo0quVwAwBdUyFZDbgn0tCdxOm/x0vTn5CczYLKt/HQII1uLbRICoyN/u2xYgFeoaId/IkB3mwE1
+hcfbXme2zABZPUuyZceAmOLi9yZvg4g6bVI/i9nyK2w53quLdEi8+Qyk2DblZ6rIBUmyPooR6f/T
+vURK6jS9QJ72CwdShOtsLYNuExU/pcZbf+Ar0iL6/gnr108iDAnytakJgMP+wZHDuTlKjyWMNp5j
+QYxBfk9OqAeHthKNo2M5L5bFbBwyQC5tHm+rK6IPCy9XUlTr/gSb9He76jbBRDexHcggCarSZR38
+TUBM+rKiRiPB8FRIobW+HuHtD7H8LRm1YWd5SVqcR33EbgisKDDMLxcJ9ameo0uqMIV7QB+a6neu
+o+4EANUwaBcvJjZ4wpnSbF9bjGX7Q0IpEY7UB/vJag5xzkFqkznuHYfQfrp9XF+z8hO6vEAk

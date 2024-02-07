@@ -3,9 +3,9 @@
     "series": "16",
     "model": "ubuntu-core-22-amd64",
     "architecture": "amd64",
-    "authority-id": "Z2wY745mGOwk6uBBtIDhbqtEZ8kbqYjN",
-    "brand-id": "Z2wY745mGOwk6uBBtIDhbqtEZ8kbqYjN",
-    "timestamp": "2023-10-04T14:18:26+00:00",
+    "authority-id": "MiwxyHGajqRpwhqDdKRs1Hok0VIiV8aP",
+    "brand-id": "MiwxyHGajqRpwhqDdKRs1Hok0VIiV8aP",
+    "timestamp": "2024-02-07T13:28:47+00:00",
     "base": "core22",
     "grade": "dangerous",
     "snaps": [
@@ -35,3 +35,4 @@
         }
     ]
 }
+
