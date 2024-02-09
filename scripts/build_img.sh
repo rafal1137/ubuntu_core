@@ -4,7 +4,8 @@ set -e
 echo "###################################"
 echo Building Ubuntu Core 22 x86_64
 echo You need to manually install pulseaudio snap and manually connect it inside running VM or whatever
-echo snap install pulseaudio --beta
+echo snap install pulseaudio --beta and run snap connect etlegacy:audio-playback pulseaudio
+echo For few use cases run snap connect etlegacy:alsa
 echo "###################################"
 echo Downloading snaps
 snap download --target-directory=../snaps etlegacy --edge
@@ -24,7 +25,8 @@ echo mesa-core22
 echo core20
 echo mir-kiosk
 echo You need to manually install pulseaudio snap and manually connect it inside running VM or whatever
-echo snap install pulseaudio --beta
+echo snap install pulseaudio --beta and run snap connect etlegacy:audio-playback pulseaudio
+echo For few use cases run snap connect etlegacy:alsa
 echo "###################################"
 echo Building actual image file of 8GB size
 ubuntu-image --validation=enforce --image-size 8G snap ../models/ubuntu-core-22-arm64.model --output-dir=../ubuntu-core-22-arm64
